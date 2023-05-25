@@ -1,0 +1,21 @@
+.welcome{
+    margin-left: 50%;
+   
+}
+.home-page{
+    margin-top: 18%;
+  
+}
+.askQ{
+justify-content: space-between;
+min-height: 10vh;
+color: rgb(236, 38, 38) !important;
+text-decoration: solid underline;
+}
+
+.askQ:hover{
+    color: blue !important
+}
+.ask{
+    margin-top: 10px;
+}
